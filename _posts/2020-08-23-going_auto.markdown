@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Going Auto"
-date:       2020-08-23 22:50:39 +0000
+title:      "Going Automatic (But Not Fully)"
+date:       2020-08-23 18:50:40 -0400
 permalink:  going_auto
 ---
 
